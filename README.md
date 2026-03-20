@@ -48,3 +48,16 @@ To analyze the relationship between:
 ---
 
 ## 📂 Project Structure
+## 📊 Key Visual Insights
+
+### Top Hiring Companies
+![Top Hiring](images/top_hiring_companies.png)
+
+### Hiring Distribution
+![Pie](images/top_hiring_pie.png)
+
+### Salary vs Reviews (3D)
+![3D](images/salary_vs_reviews_3d.png)
+
+### Correlation Heatmap
+![Heatmap](images/correlation_heatmap.png)
