@@ -1,0 +1,660 @@
+company,salaries,interviews,review,jobs,benefits,location
+TCS,990000.0,11900.0,110000.0,3500.0,10600.0,IT Services & Consulting | Bengaluru +439 other locations
+Accenture,660000.0,9300.0,72400.0,28800.0,6700.0,IT Services & Consulting | Bengaluru +257 other locations
+Wipro,480000.0,6800.0,64300.0,448.0,4600.0,IT Services & Consulting | Hyderabad +371 other locations
+Cognizant,600000.0,6400.0,60600.0,474.0,5500.0,IT Services & Consulting | Hyderabad +232 other locations
+Capgemini,480000.0,5500.0,52300.0,2600.0,3700.0,IT Services & Consulting | Bengaluru +182 other locations
+HDFC Bank,150000.0,3000.0,51500.0,386.0,3200.0,Banking | Mumbai +1839 other locations
+Infosys,520000.0,8400.0,48100.0,2500.0,4800.0,IT Services & Consulting | Bengaluru +248 other locations
+ICICI Bank,150000.0,2900.0,45400.0,15.0,3700.0,Banking | Mumbai +1441 other locations
+HCLTech,380000.0,4500.0,45300.0,280.0,3800.0,IT Services & Consulting | Chennai +232 other locations
+Tech Mahindra,280000.0,4500.0,42800.0,665.0,3400.0,IT Services & Consulting | Hyderabad +331 other locations
+Genpact,230000.0,3800.0,41500.0,902.0,3500.0,Analytics & KPO | Hyderabad +181 other locations
+TP,97400.0,2200.0,37700.0,2100.0,1800.0,BPO | Mumbai +256 other locations
+Jio,62600.0,4300.0,33500.0,1.0,2500.0,Telecom | Mumbai +1970 other locations
+Axis Bank,100000.0,1900.0,32700.000000000004,232.0,2100.0,Banking | Mumbai +1513 other locations
+Concentrix Corporation,130000.0,2000.0,31800.0,40.0,3100.0,BPO | Bengaluru +179 other locations
+Amazon,150000.0,5900.0,31200.0,2100.0,3600.0,Internet | Bengaluru +522 other locations
+Reliance Retail,76600.0,1900.0,27200.0,137.0,1800.0,Retail | Mumbai +1156 other locations
+iEnergizer,24400.0,1400.0,27100.0,93.0,430.0,BPO | Noida +52 other locations
+LTIMindtree,190000.0,3400.0,26100.0,352.0,777.0,IT Services & Consulting | Bengaluru +145 other locations
+IBM,210000.0,2600.0,25500.0,2000.0,2600.0,IT Services & Consulting | Bengaluru +161 other locations
+HDB Financial Services,49800.0,1100.0,25400.0,2100.0,1500.0,NBFC | Mumbai +1093 other locations
+Larsen & Toubro Limited,75300.0,1800.0,23600.0,75.0,2500.0,Engineering & Construction | Chennai +761 other locations
+Deloitte,250000.0,3300.0,22800.0,1700.0,2400.0,Management Consulting | Hyderabad +189 other locations
+Kotak Mahindra Bank,87100.0,1400.0,22200.0,162.0,1300.0,Banking | Mumbai +688 other locations
+Reliance Industries,73100.0,1600.0,20000.0,85.0,1800.0,Oil & Gas | Jamnagar +819 other locations
+Vodafone Idea,49600.0,684.0,17500.0,62.0,2000.0,Telecom | Pune +707 other locations
+Bharti Airtel,49700.0,1100.0,17000.0,192.0,1600.0,Telecom | Gurugram +795 other locations
+BYJU'S,53400.0,2100.0,16400.0,1.0,1700.0,EdTech | Bengaluru +322 other locations
+WNS,69800.0,1200.0,15000.0,104.0,1300.0,IT Services & Consulting | Pune +66 other locations
+IDFC FIRST Bank,49300.0,951.0,14300.0,43.0,692.0,Banking | Mumbai +719 other locations
+Ernst & Young,140000.0,1300.0,14300.0,4600.0,1100.0,Management Consulting | Bengaluru +132 other locations
+Tata Motors,42900.0,1300.0,14100.0,159.0,1600.0,Automobile | Pune +508 other locations
+IndusInd Bank,51700.0,764.0,14100.0,96.0,796.0,Banking | Mumbai +796 other locations
+AU Small Finance Bank,29600.0,694.0,14000.0,223.0,578.0,Banking | Jaipur +793 other locations
+Muthoot FinCorp,9200.0,2400.0,13100.0,21.0,275.0,NBFC | Bengaluru +1118 other locations
+Bajaj Finserv,30600.0,735.0,12900.0,11.0,707.0,NBFC | Pune +1177 other locations
+Flipkart,54900.0,1700.0,12800.0,139.0,1400.0,Internet | Bengaluru +558 other locations
+PwC,120000.0,1600.0,12300.0,1100.0,800.0,Management Consulting | Bengaluru +134 other locations
+Mahindra & Mahindra,40400.0,851.0,12000.0,1.0,1200.0,Automobile | Pune +566 other locations
+Infosys BPM,74700.0,1100.0,11900.0,66.0,1100.0,BPO | Bengaluru +96 other locations
+DXC Technology,71900.0,896.0,11900.0,202.0,1100.0,IT Services & Consulting | Bengaluru +133 other locations
+HDFC Life,32900.0,794.0,11900.0,105.0,613.0,Insurance | Mumbai +706 other locations
+Bandhan Bank,24800.0,751.0,10900.0,32.0,517.0,Banking | Kolkata +1001 other locations
+Digitide Solutions,26700.0,567.0,10200.0,334.0,772.0,IT Services & Consulting | Hyderabad +271 other locations
+Mphasis,74100.0,926.0,10100.0,45.0,845.0,IT Services & Consulting | Bengaluru +64 other locations
+Yes Bank,43300.0,552.0,10100.0,200.0,608.0,Banking | Mumbai +543 other locations
+Tata Steel,34400.0,1100.0,9800.0,0.0,659.0,Iron & Steel | Jamshedpur +230 other locations
+Quess,31200.0,539.0,9600.0,42.0,440.0,Recruitment | Bengaluru +745 other locations
+Maruti Suzuki,28500.0,783.0,9500.0,787.0,1100.0,Automobile | Gurugram +455 other locations
+Asian Paints,25800.0,858.0,9500.0,67.0,884.0,Chemicals | Mumbai +553 other locations
+Startek,24500.0,632.0,9400.0,219.0,681.0,BPO | Bengaluru +103 other locations
+UltraTech Cement,24900.0,796.0,9300.0,32.0,619.0,Building Material | Mumbai +541 other locations
+Paytm,34300.0,890.0,9200.0,280.0,582.0,FinTech | Noida +420 other locations
+Bajaj Finance,22800.0,435.0,9100.0,6700.0,503.0,NBFC | Pune +980 other locations
+Shriram Finance,15000.0,447.0,9000.0,17.0,21.0,NBFC | Chennai +1116 other locations
+Sutherland Global Services,35200.0,791.0,8900.0,257.0,902.0,BPO | Chennai +84 other locations
+Equitas Small Finance Bank,13400.0,1000.0,8800.0,26.0,397.0,Banking | Chennai +484 other locations
+Cipla,26300.0,596.0,8500.0,73.0,857.0,Pharma | Mumbai +294 other locations
+EXL Service,44400.0,904.0,8500.0,290.0,799.0,Analytics & KPO | Noida +61 other locations
+Wells Fargo,57000.0,687.0,8500.0,551.0,855.0,Financial Services | Bengaluru +27 other locations
+Ericsson,42300.0,473.0,8300.0,38.0,998.0,Telecom | Noida +163 other locations
+Samsung,26400.0,628.0,8300.0,18.0,521.0,Consumer Electronics & Appliances | Noida +585 other locations
+Dr. Reddy's,26000.0,509.0,8100.0,11.0,740.0,Pharma | Hyderabad +215 other locations
+Optum Global Solutions,49800.0,764.0,7800.0,121.0,686.0,IT Services & Consulting | Hyderabad +68 other locations
+JPMorgan Chase & Co.,88700.0,872.0,7700.0,1000.0,846.0,Financial Services | Bengaluru +55 other locations
+JSW Steel,31400.0,818.0,7700.0,132.0,602.0,Iron & Steel | Ballari +194 other locations
+Delhivery,21300.0,609.0,7700.0,190.0,656.0,Logistics | Gurugram +760 other locations
+ICICI Prudential Life Insurance,23300.0,479.0,7700.0,220.0,625.0,Insurance | Mumbai +506 other locations
+Hexaware Technologies,54100.0,827.0,7600.0,534.0,547.0,IT Services & Consulting | Chennai +69 other locations
+HGS,20500.0,274.0,7500.0,16.0,968.0,BPO | Bengaluru +122 other locations
+Jana Small Finance Bank,14400.0,307.0,7500.0,42.0,623.0,Banking | Bengaluru +419 other locations
+Ujjivan Small Finance Bank,13300.0,323.0,7500.0,594.0,580.0,Banking | Bengaluru +537 other locations
+Sun Pharmaceutical Industries,23300.0,667.0,7500.0,386.0,594.0,Pharma | Vadodara +264 other locations
+Amazon Development Centre India,38600.0,889.0,7500.0,4.0,360.0,Internet | Hyderabad +146 other locations
+Lupin,22500.0,444.0,7300.0,19.0,764.0,Pharma | Pune +205 other locations
+Ekart Logistics,16100.000000000002,407.0,7300.0,0.0,422.0,Logistics | Bengaluru +741 other locations
+Zydus Lifesciences,20000.0,450.0,7300.0,50.0,605.0,Pharma | Ahmedabad +178 other locations
+L&T Construction,19300.0,948.0,7300.0,0.0,929.0,Engineering & Construction | Chennai +433 other locations
+Hindustan Unilever,20500.0,470.0,7200.0,51.0,704.0,FMCG | Mumbai +540 other locations
+KPMG India,66000.0,931.0,7200.0,69.0,749.0,Management Consulting | Bengaluru +112 other locations
+ITC,24800.0,695.0,7100.0,89.0,638.0,FMCG | Bengaluru +377 other locations
+Axis Max Life Insurance,20300.0,407.0,7100.0,157.0,495.0,Insurance | New Delhi +503 other locations
+Megha Engineering & Infrastructures,18700.0,566.0,6900.0,34.0,539.0,Engineering & Construction | Hyderabad +405 other locations
+Tata Projects,22700.0,601.0,6800.0,52.0,540.0,Engineering & Construction | Mumbai +287 other locations
+Coforge,50100.0,715.0,6700.0,181.0,273.0,IT Services & Consulting | Noida +103 other locations
+Bajaj Life Insurance,17400.0,446.0,6500.0,69.0,474.0,Insurance | Pune +615 other locations
+Cholamandalam Investment & Finance,12700.0,284.0,6500.0,42.0,293.0,Financial Services | Chennai +855 other locations
+L&T Technology Services,43400.0,631.0,6500.0,0.0,444.0,IT Services & Consulting | Bengaluru +93 other locations
+FIS,38900.0,536.0,6500.0,126.0,721.0,FinTech | Pune +60 other locations
+Oracle,63000.0,950.0,6300.0,113.0,617.0,Software Product | Bengaluru +56 other locations
+Omega Healthcare,26900.0,551.0,6300.0,168.0,391.0,BPO | Chennai +69 other locations
+Muthoot Finance,12900.0,355.0,6300.0,120.0,325.0,NBFC | Bengaluru +791 other locations
+IIFL Finance,14000.0,329.0,6300.0,79.0,399.0,NBFC | Mumbai +807 other locations
+JLL,24400.0,487.0,6300.0,413.0,539.0,Real Estate | Gurugram +85 other locations
+Indian Army,9400.0,206.0,6200.0,0.0,728.0,Defence & Aerospace | New Delhi +363 other locations
+eClerx,32500.0,638.0,6200.0,663.0,555.0,IT Services & Consulting | Pune +32 other locations
+HCL Group,39300.0,520.0,6100.0,0.0,661.0,IT Services & Consulting | Chennai +97 other locations
+DMart,18400.0,551.0,6000.0,213.0,470.0,Retail | Mumbai +248 other locations
+Virtusa Consulting Services,57000.0,675.0,6000.0,1200.0,318.0,IT Services & Consulting | Hyderabad +55 other locations
+Piramal Finance,12300.0,295.0,6000.0,8.0,445.0,NBFC | Mumbai +424 other locations
+Indiamart Intermesh,21500.0,754.0,5900.0,176.0,432.0,Internet | Noida +174 other locations
+HSBC Group,43800.0,548.0,5900.0,126.0,1100.0,Financial Services | Bengaluru +63 other locations
+PolicyBazaar,17500.0,630.0,5900.0,724.0,231.0,Internet | Gurugram +150 other locations
+SMFG India Credit,10900.0,210.0,5900.0,56.0,348.0,NBFC | Mumbai +596 other locations
+Access Healthcare,28900.0,400.0,5800.0,1800.0,347.0,BPO | Chennai +63 other locations
+BigBasket,19300.0,487.0,5800.0,78.0,381.0,Internet | Bengaluru +142 other locations
+Siemens,34200.0,508.0,5700.0,81.0,632.0,Industrial Automation | Bengaluru +155 other locations
+Aurobindo Pharma,20700.0,291.0,5700.0,24.0,468.0,Pharma | Hyderabad +115 other locations
+Udaan,15700.0,372.0,5700.0,8.0,755.0,Internet | Bengaluru +367 other locations
+GlobalLogic,41100.0,684.0,5700.0,37.0,515.0,IT Services & Consulting | Hyderabad +62 other locations
+Firstsource Solutions,24700.0,364.0,5700.0,177.0,570.0,BPO | Bengaluru +74 other locations
+Manappuram Finance,9200.0,224.0,5700.0,13.0,260.0,NBFC | Bengaluru +657 other locations
+ICICI Lombard General Insurance Company,20300.0,356.0,5700.0,224.0,366.0,Insurance | Mumbai +318 other locations
+Tata Capital,15900.0,274.0,5700.0,4900.0,257.0,NBFC | Mumbai +446 other locations
+Shapoorji Pallonji Group,15500.0,427.0,5600.0,70.0,632.0,Engineering & Construction | Mumbai +189 other locations
+Standard Chartered,42200.0,323.0,5600.0,0.0,305.0,Banking | Chennai +67 other locations
+UST,39900.0,591.0,5600.0,91.0,408.0,IT Services & Consulting | Bengaluru +51 other locations
+Apollo Hospitals,16600.0,487.0,5600.0,224.0,507.0,Healthcare | Chennai +228 other locations
+Mahindra Finance,12100.0,220.0,5600.0,545.0,507.0,NBFC | Mumbai +737 other locations
+Bosch Global Software Technologies,40500.0,392.0,5600.0,19.0,625.0,IT Services & Consulting | Bengaluru +47 other locations
+Ashok Leyland,19000.0,325.0,5500.0,1.0,642.0,Automobile | Chennai +266 other locations
+Swiggy,23500.0,576.0,5500.0,249.0,340.0,Internet | Bengaluru +238 other locations
+Citicorp,53500.0,630.0,5500.0,0.0,517.0,Financial Services | Pune +68 other locations
+Hero MotoCorp,15900.0,410.0,5400.0,1.0,584.0,Automobile | Gurugram +369 other locations
+CGI Group,46300.0,560.0,5300.0,484.0,354.0,IT Services & Consulting | Bengaluru +43 other locations
+Cyient,27500.0,334.0,5300.0,84.0,466.0,IT Services & Consulting | Hyderabad +49 other locations
+SBI Cards & Payment Services,15900.0,307.0,5200.0,74.0,344.0,Financial Services | Gurugram +443 other locations
+BNY,31400.0,401.0,5200.0,75.0,528.0,Financial Services | Pune +26 other locations
+Kalpataru Projects International,13800.0,332.0,5200.0,4.0,203.0,Engineering & Construction | Mumbai +325 other locations
+IQVIA,31200.0,556.0,5200.0,42.0,524.0,Clinical Research | Bengaluru +66 other locations
+NTT DATA,36500.0,748.0,5200.0,82.0,156.0,IT Services & Consulting | Bengaluru +81 other locations
+Nagarjuna Construction Company,12200.0,443.0,5100.0,17.0,408.0,Engineering & Construction | Hyderabad +299 other locations
+JustDial,15300.0,393.0,5100.0,90.0,372.0,Internet | Noida +232 other locations
+Schneider Electric,25000.0,456.0,5100.0,170.0,436.0,Industrial Automation | Bengaluru +119 other locations
+SBI Life Insurance Company,12100.0,308.0,5100.0,1.0,327.0,Insurance | Mumbai +659 other locations
+CBRE,18900.0,352.0,5000.0,205.0,443.0,Real Estate | Hyderabad +92 other locations
+TVS Motor,16000.0,404.0,5000.0,21.0,537.0,Automobile | Hosur +352 other locations
+Persistent Systems,45600.0,713.0,5000.0,293.0,369.0,IT Services & Consulting | Pune +41 other locations
+State Bank of India,11800.0,314.0,4900.0,10.0,400.0,Banking | Mumbai +621 other locations
+Atos,33800.0,410.0,4900.0,96.0,456.0,IT Services & Consulting | Pune +49 other locations
+vivo,13100.0,241.0,4900.0,5.0,643.0,Consumer Electronics & Appliances | Noida +415 other locations
+KEC International,13500.0,422.0,4900.0,15.0,442.0,Engineering & Construction | Mumbai +312 other locations
+Ecom Express,9400.0,264.0,4800.0,0.0,323.0,Logistics | Gurugram +778 other locations
+Amdocs,37300.0,562.0,4800.0,15.0,614.0,Software Product | Pune +24 other locations
+ITC Infotech,29800.0,420.0,4800.0,90.0,281.0,IT Services & Consulting | Bengaluru +68 other locations
+JBM Group,14000.0,352.0,4800.0,63.0,342.0,Auto Components | Gurugram +118 other locations
+Varun Beverages,11900.0,352.0,4800.0,62.0,321.0,Beverage | New Delhi +382 other locations
+Eviden,27700.0,316.0,4800.0,1.0,1.0,IT Services & Consulting | Pune +39 other locations
+Nagarro,32800.0,836.0,4700.0,334.0,1100.0,IT Services & Consulting | Gurugram +49 other locations
+Bosch,21000.0,383.0,4600.0,0.0,599.0,Auto Components | Bengaluru +132 other locations
+Randstad,16800.0,331.0,4600.0,6.0,342.0,Recruitment | Hyderabad +359 other locations
+Utkarsh Small Finance Bank,11400.0,307.0,4600.0,24.0,270.0,Banking | Varanasi +410 other locations
+EY Global Delivery Services ( EY GDS),50600.0,888.0,4600.0,9.0,264.0,IT Services & Consulting | Bengaluru +56 other locations
+Hewlett Packard Enterprise,27300.0,268.0,4600.0,299.0,546.0,IT Services & Consulting | Bengaluru +104 other locations
+Cars24,15500.0,409.0,4600.0,68.0,410.0,Internet | Gurugram +171 other locations
+Aditya Birla Fashion and Retail,13000.0,268.0,4600.0,91.0,391.0,Fashion & Textile | Bengaluru +293 other locations
+Home Credit Finance,9500.0,149.0,4600.0,88.0,629.0,NBFC | Gurugram +138 other locations
+L&T Finance,11600.0,220.0,4500.0,0.0,259.0,NBFC | Mumbai +639 other locations
+Mahindra Logistics,12900.0,253.0,4500.0,60.0,446.0,Logistics | Mumbai +234 other locations
+Havells,14600.0,293.0,4500.0,24.0,315.0,Electrical Equipment | Noida +263 other locations
+Dell,28900.0,425.0,4500.0,31.0,540.0,Consumer Electronics & Appliances | Bengaluru +118 other locations
+Intas Pharmaceuticals,17200.0,262.0,4500.0,51.0,362.0,Pharma | Ahmedabad +150 other locations
+R1 RCM,22000.0,359.0,4500.0,225.0,335.0,BPO | New Delhi +46 other locations
+OPPO,11800.0,252.0,4500.0,3.0,602.0,Consumer Electronics & Appliances | Greater Noida +412 other locations
+Tata AIA Life Insurance,14200.0,255.0,4400.0,751.0,298.0,Insurance | Mumbai +448 other locations
+Hetero,15300.0,326.0,4400.0,60.0,332.0,Pharma | Hyderabad +70 other locations
+Deutsche Bank,36800.0,426.0,4400.0,615.0,399.0,Banking | Pune +42 other locations
+Hyundai Motor India Limited,14200.0,326.0,4400.0,0.0,519.0,Automobile | Chennai +286 other locations
+Berger Paints,10500.0,434.0,4400.0,113.0,273.0,Chemicals | Kolkata +361 other locations
+Motilal Oswal Financial Services,12900.0,550.0,4400.0,43.0,167.0,Financial Services | Mumbai +170 other locations
+TeamLease Services,16200.0,253.0,4300.0,2.0,215.0,Recruitment | Bengaluru +401 other locations
+Lenskart,13000.0,453.0,4300.0,186.0,199.0,Internet | New Delhi +244 other locations
+VE Commercial Vehicles,14100.0,289.0,4300.0,2.0,340.0,Automobile | Indore +181 other locations
+Thermax Limited,13200.0,344.0,4200.0,65.0,371.0,Industrial Machinery | Pune +255 other locations
+Macleods Pharmaceuticals,15600.0,270.0,4200.0,10.0,334.0,Pharma | Mumbai +135 other locations
+Bajaj Auto,14600.0,327.0,4200.0,0.0,496.0,Automobile | Pune +321 other locations
+Jubilant Foods Works,9500.0,254.0,4200.0,260.0,180.0,Hospitality | New Delhi +262 other locations
+Aakash Educational Services,13700.0,374.0,4200.0,103.0,212.0,Education & Training | New Delhi +248 other locations
+Kogta Financial India Limited,1900.0,251.0,4100.0,138.0,31.0,NBFC | Jaipur +261 other locations
+LG Electronics,11200.0,262.0,4100.0,0.0,399.0,Consumer Electronics & Appliances | Pune +300 other locations
+Hindalco Industries,12800.0,307.0,4100.0,12.0,327.0,Metals & Mining | Sambalpur +129 other locations
+Jindal Steel Limited,15800.0,421.0,4100.0,49.0,328.0,Iron & Steel | Angul +175 other locations
+Royal Enfield,14900.0,203.0,4100.0,15.0,396.0,Automobile | Chennai +377 other locations
+State Street Corporation,32400.0,292.0,4100.0,6.0,262.0,Financial Services | Bengaluru +35 other locations
+DCB Bank,9700.0,231.0,4000.0,23.0,248.0,Banking | Mumbai +346 other locations
+HDFC Ergo General Insurance,12100.0,201.0,4000.0,317.0,273.0,Insurance | Mumbai +328 other locations
+Tata Communications,23500.0,302.0,4000.0,282.0,426.0,Telecom | Pune +102 other locations
+John Deere,15300.0,268.0,4000.0,3.0,417.0,Industrial Machinery | Pune +154 other locations
+RBL Bank,18500.0,241.0,4000.0,33.0,221.0,Banking | Mumbai +289 other locations
+Cummins,15600.0,289.0,3900.0,100.0,458.0,Industrial Machinery | Pune +116 other locations
+Publicis Sapient,31400.0,698.0,3900.0,211.0,391.0,IT Services & Consulting | Bengaluru +46 other locations
+Bank of America,29000.0,294.0,3900.0,0.0,414.0,Banking | Gurugram +35 other locations
+Alembic Pharmaceuticals,15400.0,255.0,3900.0,70.0,378.0,Pharma | Vadodara +188 other locations
+Pidilite Industries,11600.0,258.0,3900.0,19.0,360.0,Chemicals | Mumbai +320 other locations
+Oyo Rooms,14300.0,258.0,3900.0,166.0,389.0,Internet | Gurugram +121 other locations
+American Express,25200.0,429.0,3800.0,171.0,435.0,Financial Services | Gurugram +55 other locations
+Subros,12600.0,218.0,3800.0,1.0,379.0,Auto Components | Noida +89 other locations
+Grasim Industries,12800.0,280.0,3800.0,6.0,267.0,Building Material | Bharuch +249 other locations
+Aditya Birla Sun Life Insurance,10000.0,183.0,3800.0,1.0,214.0,Insurance | Mumbai +494 other locations
+Kyndryl,26600.0,229.0,3800.0,4.0,163.0,IT Services & Consulting | Bengaluru +38 other locations
+Reliance Communications,9400.0,106.0,3800.0,0.0,375.0,Telecom | Mumbai +468 other locations
+Carelon Global Solutions,28500.0,423.0,4200.0,58.0,7.0,IT Services & Consulting | Bengaluru +21 other locations
+Altruist Technologies,8300.0,720.0,3800.0,5.0,83.0,BPO | Bengaluru +43 other locations
+XpressBees,8200.0,443.0,3800.0,13.0,176.0,Logistics | Pune +479 other locations
+ADP Private Limited,22200.0,292.0,3800.0,67.0,457.0,Software Product | Hyderabad +41 other locations
+PNB MetLife,8000.0,196.0,3800.0,16.0,217.0,Insurance | New Delhi +425 other locations
+Aditya Birla Capital,14100.0,261.0,3800.0,3.0,212.0,NBFC | Mumbai +344 other locations
+Viatris,14100.0,165.0,3800.0,4.0,500.0,Pharma | Hyderabad +80 other locations
+PVR INOX,9400.0,216.0,3800.0,22.0,242.0,Media & Entertainment | New Delhi +149 other locations
+Escorts Kubota Limited,13400.0,300.0,3800.0,3.0,255.0,Automobile | Faridabad +158 other locations
+Maersk,19100.0,250.0,3700.0,42.0,421.0,Logistics | Chennai +49 other locations
+Cloudnine Hospital,3000.0,1200.0,3700.0,18.0,78.0,Healthcare | Bengaluru +46 other locations
+KPIT Technologies,23300.0,347.0,3700.0,48.0,290.0,Software Product | Pune +43 other locations
+Synechron,28300.0,407.0,3700.0,182.0,239.0,IT Services & Consulting | Pune +33 other locations
+Birlasoft,29900.0,316.0,3700.0,549.0,235.0,IT Services & Consulting | Pune +50 other locations
+JK Cement,10000.0,342.0,3700.0,2.0,257.0,Building Material | New Delhi +333 other locations
+Glenmark Pharmaceuticals,12400.0,182.0,3700.0,34.0,317.0,Pharma | Mumbai +187 other locations
+Dabur,8900.0,332.0,3700.0,15.0,276.0,FMCG | New Delhi +321 other locations
+Sodexo,9900.0,204.0,3700.0,926.0,364.0,Facility Management Services | Mumbai +160 other locations
+Bharat Electronics,12600.0,246.0,3600.0,1.0,312.0,Electronics Manufacturing | Bengaluru +87 other locations
+Kotak Mahindra Life Insurance Company,12500.0,262.0,3600.0,156.0,256.0,Insurance | Mumbai +257 other locations
+Godrej & Boyce Manufacturing,15100.0,230.0,3600.0,47.0,412.0,Consumer Electronics & Appliances | Mumbai +169 other locations
+Cogent E Services,10300.0,295.0,3600.0,2.0,220.0,BPO | Noida +56 other locations
+Samvardhana Motherson Group,12100.0,259.0,3600.0,19.0,404.0,Auto Components | Noida +94 other locations
+Abbott,12000.0,184.0,3600.0,193.0,361.0,Pharma | Mumbai +214 other locations
+Ipca Laboratories,11500.0,210.0,3600.0,47.0,245.0,Pharma | Mumbai +161 other locations
+Aarti Industries,14400.0,332.0,3600.0,42.0,351.0,Agro Chemicals | Bharuch +58 other locations
+PhonePe,13300.0,422.0,3600.0,88.0,183.0,FinTech | Bengaluru +399 other locations
+Reliance Projects & Property Management Services,7300.0,213.0,3500.0,0.0,20.0,Other | Kolkata +622 other locations
+Indian Oil Corporation,7800.0,240.0,3500.0,0.0,291.0,Oil & Gas | New Delhi +313 other locations
+Reliance Digital,7900.0,170.0,3500.0,1.0,241.0,Retail | Mumbai +379 other locations
+MRF Tyres,12800.0,376.0,3500.0,18.0,345.0,Auto Components | Chennai +194 other locations
+UNO Minda,11400.0,260.0,3500.0,9.0,279.0,Auto Components | Pune +110 other locations
+IGT Solutions,13600.0,256.0,3500.0,112.0,213.0,BPO | New Delhi +47 other locations
+Alkem Laboratories,9800.0,198.0,3500.0,19.0,328.0,Pharma | Mumbai +200 other locations
+Johnson Controls,17700.0,304.0,3500.0,3.0,266.0,Industrial Automation | Pune +58 other locations
+"NTT DATA, Inc.",21200.0,154.0,3500.0,97.0,624.0,IT Services & Consulting | Bengaluru +36 other locations
+Honda Motorcycle & Scooter,11100.0,205.0,3500.0,1.0,348.0,Automobile | Gurugram +301 other locations
+Blinkit,13100.0,346.0,3500.0,2.0,203.0,Internet | Gurugram +150 other locations
+ArcelorMittal Nippon Steel,12000.0,276.0,3500.0,6.0,111.0,Iron & Steel | Surat +86 other locations
+[24]7.ai,11700.0,188.0,3400.0,92.0,406.0,Software Product | Bengaluru +36 other locations
+Vishal Mega Mart,6200.0,213.0,3400.0,6.0,273.0,Retail | New Delhi +377 other locations
+Hindustan Coca Cola Beverages,7800.0,180.0,3400.0,53.0,377.0,Beverage | Bengaluru +263 other locations
+UBS,31800.0,374.0,3400.0,1.0,118.0,Financial Services | Pune +19 other locations
+IndusInd Nippon Life Insurance,4700.0,172.0,3400.0,1.0,229.0,Mumbai +490 other locations
+DTDC Express,8600.0,195.0,3400.0,31.0,263.0,Logistics | New Delhi +272 other locations
+ABB,18100.0,294.0,3400.0,3100.0,346.0,Industrial Machinery | Bengaluru +109 other locations
+Bajaj General Insurance Limited,10700.0,141.0,3400.0,275.0,236.0,Insurance | Pune +304 other locations
+Ford Motor,15300.0,176.0,3400.0,3.0,398.0,Automobile | Chennai +131 other locations
+Barclays,32400.0,318.0,3300.0,0.0,253.0,Banking | Pune +35 other locations
+Ceat Tyres,13000.0,212.0,3300.0,13.0,346.0,Auto Components | Nagpur +142 other locations
+RSPL Group,9600.0,259.0,3300.0,17.0,293.0,FMCG | Kanpur +256 other locations
+TVS Credit Services Ltd,7200.0,158.0,3300.0,33.0,194.0,NBFC | Chennai +438 other locations
+AGS Health,14500.0,214.0,3300.0,50.0,272.0,Analytics & KPO | Chennai +64 other locations
+NatWest Group,21200.0,234.0,3300.0,54.0,363.0,Banking | Gurugram +28 other locations
+HARMAN,24200.0,293.0,3300.0,111.0,100.0,Consumer Electronics & Appliances | Bengaluru +42 other locations
+Croma,9200.0,186.0,3300.0,15.0,186.0,Retail | Mumbai +192 other locations
+InterGlobe Aviation,13400.0,373.0,3300.0,51.0,315.0,Aviation | New Delhi +105 other locations
+Conduent,16900.0,234.0,3300.0,330.0,366.0,BPO | Bengaluru +34 other locations
+Alstom Transportation,15100.0,279.0,3200.0,200.0,174.0,Engineering & Construction | Bengaluru +80 other locations
+Niva Bupa Health Insurance Company,8400.0,378.0,3200.0,46.0,119.0,Insurance | New Delhi +321 other locations
+Indian Air Force,5400.0,83.0,3200.0,0.0,354.0,Defence & Aerospace | New Delhi +134 other locations
+Tata Technologies,22900.0,308.0,3200.0,105.0,308.0,Engineering & Construction | Pune +58 other locations
+GeBBS Healthcare Solutions,11300.0,185.0,3200.0,82.0,291.0,BPO | Mumbai +24 other locations
+Tata AIG,11400.0,193.0,3200.0,73.0,245.0,Insurance | Mumbai +260 other locations
+Allcargo Logistics,7100.0,138.0,3200.0,32.0,335.0,Logistics | Mumbai +175 other locations
+UPL,11100.0,219.0,3200.0,49.0,292.0,Agro Chemicals | Ankleshwar +185 other locations
+Marpu Foundation,60.0,265.0,3100.0,0.0,8.0,Non-Profit | Hyderabad +61 other locations
+Max Healthcare,10500.0,188.0,3100.0,135.0,276.0,Healthcare | New Delhi +78 other locations
+Amazon Transportation Services,8500.0,256.0,3100.0,0.0,246.0,Logistics | Hyderabad +226 other locations
+PepsiCo,13700.0,238.0,3100.0,236.0,244.0,Food Processing | Hyderabad +280 other locations
+Dilip Buildcon,8100.0,188.0,3100.0,21.0,298.0,Engineering & Construction | Bhopal +229 other locations
+Titan Company,9700.0,203.0,3100.0,109.0,332.0,Retail | Bengaluru +185 other locations
+Walmart,23000.0,440.0,3100.0,218.0,320.0,Retail | Bengaluru +91 other locations
+Mankind Pharma,9500.0,256.0,3100.0,8.0,247.0,Pharma | New Delhi +247 other locations
+Jindal Stainless,11600.0,317.0,3100.0,83.0,186.0,Iron & Steel | Jajpur +78 other locations
+Varroc Group,9500.0,221.0,3100.0,38.0,230.0,Auto Components | Pune +62 other locations
+S&P Global,20600.0,331.0,3100.0,600.0,212.0,Analytics & KPO | Hyderabad +47 other locations
+Sagility,12100.0,247.0,3100.0,104.0,36.0,BPO | Bengaluru +27 other locations
+MSN Laboratories,9500.0,172.0,3100.0,27.0,155.0,Pharma | Hyderabad +105 other locations
+Societe Generale Global Solution Centre,23100.0,297.0,3100.0,109.0,293.0,IT Services & Consulting | Bengaluru +23 other locations
+Quest Global,21300.0,363.0,3000.0,161.0,191.0,IT Services & Consulting | Bengaluru +49 other locations
+Afcons Infrastructure,8500.0,266.0,3000.0,30.0,309.0,Engineering & Construction | Mumbai +122 other locations
+Future Group,6700.0,84.0,3000.0,0.0,423.0,Retail | Mumbai +207 other locations
+Torrent Pharmaceuticals,10300.0,170.0,3000.0,24.0,310.0,Pharma | Ahmedabad +130 other locations
+Ola Electric Mobility,9500.0,307.0,3000.0,0.0,76.0,Automobile | Bengaluru +430 other locations
+IDFC FIRST Bharat,5000.0,151.0,3000.0,5.0,71.0,Financial Services | Chennai +432 other locations
+ESAF Small Finance Bank,7300.0,169.0,3000.0,38.0,104.0,Banking | Thrissur +451 other locations
+Square Yards,9300.0,230.0,3000.0,63.0,232.0,Internet | Gurugram +51 other locations
+HDFC Sales,8400.0,192.0,3000.0,9.0,190.0,Financial Services | Mumbai +346 other locations
+CMS IT Services,9400.0,159.0,3000.0,26.0,193.0,IT Services & Consulting | Mumbai +153 other locations
+Zensar Technologies,25600.0,279.0,3000.0,151.0,243.0,IT Services & Consulting | Pune +29 other locations
+I Process Services,5500.0,134.0,3000.0,0.0,127.0,Recruitment | Mumbai +406 other locations
+DS Group,7300.0,222.0,2900.0,46.0,207.0,FMCG | Noida +285 other locations
+ACC,9100.0,235.0,2900.0,0.0,271.0,Building Material | Mumbai +274 other locations
+Suzlon Group,7900.0,178.0,2900.0,20.0,322.0,Power | Pune +141 other locations
+Tata Elxsi,23200.0,341.0,2900.0,51.0,202.0,IT Services & Consulting | Bengaluru +30 other locations
+Eternal Limited,14600.0,362.0,2900.0,14.0,218.0,Internet | Gurugram +220 other locations
+Bharat Financial Inclusion,5200.0,125.0,2900.0,3.0,174.0,Financial Services | Hyderabad +501 other locations
+Indus Towers,9200.0,226.0,2900.0,54.0,202.0,Telecom | Gurugram +243 other locations
+Shoppers Stop,6900.0,145.0,2900.0,47.0,320.0,Retail | Mumbai +84 other locations
+Fujitsu,17400.0,214.0,2900.0,157.0,190.0,IT Services & Consulting | Pune +41 other locations
+VVDN Technologies,13800.0,259.0,2900.0,10.0,127.0,IT Services & Consulting | Gurugram +49 other locations
+Nokia,16600.0,323.0,2900.0,135.0,539.0,Telecom | Bengaluru +167 other locations
+Apollo Tyres,9900.0,153.0,2900.0,0.0,320.0,Auto Components | Chennai +179 other locations
+IKS Health,11300.0,266.0,2900.0,27.0,225.0,Healthcare | Mumbai +31 other locations
+Yazaki,9000.0,184.0,2900.0,1.0,253.0,Auto Components | Pune +94 other locations
+Shree Cement,9900.0,224.0,2800.0,6.0,214.0,Building Material | Beawar +257 other locations
+Fiserv,17800.0,194.0,2800.0,9.0,311.0,FinTech | Pune +33 other locations
+Tata Electronics,11500.0,262.0,2800.0,79.0,61.0,Semiconductors | Hosur +53 other locations
+Britannia,8400.0,233.0,2800.0,10.0,245.0,FMCG | Pune +307 other locations
+Zepto,9400.0,451.0,2800.0,38.0,29.0,Internet | Bengaluru +104 other locations
+UnitedHealth,14100.0,84.0,2800.0,0.0,432.0,Healthcare | Hyderabad +18 other locations
+Landmark Group,9300.0,177.0,2800.0,11.0,267.0,Retail | Bengaluru +175 other locations
+Dalmia Bharat Cement,4900.0,201.0,2800.0,2.0,243.0,Building Material | Guwahati +254 other locations
+SRF,9000.0,210.0,2800.0,10.0,248.0,Chemicals | Bharuch +68 other locations
+Blue Dart Express Ltd,6900.0,129.0,2700.0,17.0,233.0,Logistics | Mumbai +279 other locations
+Kansai Nerolac Paints,7700.0,193.0,2700.0,67.0,189.0,Chemicals | Mumbai +253 other locations
+Nestlé,9900.0,286.0,2700.0,9.0,319.0,FMCG | Gurugram +281 other locations
+Exide Industries,8700.0,218.0,2700.0,70.0,242.0,Auto Components | Kolkata +200 other locations
+Shell,14100.0,237.0,2700.0,73.0,257.0,Oil & Gas | Bengaluru +92 other locations
+ZS,20400.0,527.0,2700.0,261.0,261.0,Management Consulting | Pune +17 other locations
+KPMG Global Services,24000.0,259.0,2700.0,18.0,6.0,Management Consulting | Bengaluru +38 other locations
+Flex,15800.0,213.0,2700.0,59.0,439.0,Electronics Manufacturing | Chennai +46 other locations
+Whitehat jr,9300.0,265.0,2700.0,0.0,944.0,EdTech | Mumbai +48 other locations
+Micro Labs,9900.0,152.0,2700.0,21.0,205.0,Pharma | Bengaluru +152 other locations
+Star Health & Allied Insurance,10200.0,156.0,2700.0,25.0,164.0,Insurance | Chennai +333 other locations
+TVS Supply Chain Solutions,8500.0,159.0,2700.0,15.0,191.0,Logistics | Chennai +154 other locations
+ElasticRun,6200.0,275.0,2700.0,1.0,224.0,Logistics | Pune +387 other locations
+Capita,12800.0,165.0,2700.0,58.0,330.0,BPO | Pune +31 other locations
+KFintech,11200.0,174.0,2600.0,0.0,47.0,Financial Services | Hyderabad +114 other locations
+G4S,5100.0,130.0,2600.0,799.0,236.0,Law Enforcement & Security | Gurugram +165 other locations
+Exl India,15900.0,130.0,2600.0,1.0,163.0,Logistics | New Delhi +45 other locations
+Voltas,8600.0,176.0,2600.0,7.0,257.0,Consumer Electronics & Appliances | Mumbai +207 other locations
+Blue Star,9900.0,200.0,2600.0,31.0,237.0,Consumer Electronics & Appliances | Mumbai +147 other locations
+Sonalika Tractors,9000.0,174.0,2600.0,3.0,173.0,Automobile | Hoshiarpur +195 other locations
+Ajanta Pharma,8800.0,167.0,2600.0,8.0,214.0,Pharma | Mumbai +118 other locations
+BlackBuck,6500.0,214.0,2600.0,24.0,245.0,Internet | Bengaluru +366 other locations
+Care Health Insurance,8700.0,163.0,2600.0,80.0,166.0,Insurance | Gurugram +247 other locations
+Movate,15000.0,295.0,2600.0,104.0,2.0,IT Services & Consulting | Chennai +38 other locations
+Domino's Pizza,4300.0,126.0,2600.0,0.0,392.0,Hospitality | New Delhi +252 other locations
+Physicswallah,8500.0,279.0,2600.0,300.0,20.0,EdTech | Noida +128 other locations
+Gallagher,14300.0,270.0,2600.0,126.0,120.0,Insurance | Bengaluru +29 other locations
+NoBroker,10700.0,283.0,2600.0,364.0,352.0,Internet | Bengaluru +47 other locations
+Foxconn,10700.0,234.0,2600.0,17.0,171.0,Electronics Manufacturing | Chennai +62 other locations
+Fortis Healthcare,7600.0,192.0,2600.0,832.0,139.0,Healthcare | New Delhi +70 other locations
+Adani Power,10000.0,314.0,2600.0,0.0,162.0,Power | Mundra +128 other locations
+DBS Bank,13100.0,196.0,2600.0,156.0,192.0,Banking | Hyderabad +178 other locations
+ACT Fibernet,7800.0,160.0,2600.0,150.0,255.0,Telecom | Hyderabad +57 other locations
+Himalaya Wellness,6200.0,149.0,2500.0,48.0,255.0,Pharma | Bengaluru +241 other locations
+Tata Advanced Systems,12800.0,187.0,2500.0,0.0,132.0,Defence & Aerospace | Bengaluru +58 other locations
+Sahrudaya Healthcare (Medicover Hospitals),3500.0,145.0,2500.0,36.0,36.0,Healthcare | Hyderabad +46 other locations
+Foundever,8900.0,180.0,2500.0,84.0,199.0,BPO | Hyderabad +22 other locations
+Photon Interactive,7400.0,134.0,2500.0,785.0,123.0,IT Services & Consulting | Chennai +19 other locations
+BT Group,11600.0,227.0,2500.0,7.0,264.0,Telecom | Gurugram +25 other locations
+Sterlite Technologies,10100.0,184.0,2500.0,117.0,208.0,Hardware & Networking | Chhatrapati Sambhajinagar +101 other locations
+V-Mart,4400.0,193.0,2500.0,19.0,210.0,Retail | Gurugram +284 other locations
+Alldigi Tech,7600.0,234.0,2500.0,50.0,112.0,BPO | Chennai +36 other locations
+IntouchCX,10000.0,240.0,2500.0,225.0,146.0,BPO | Hyderabad +22 other locations
+Bajaj Electricals,7500.0,152.0,2500.0,21.0,289.0,Consumer Electronics & Appliances | Mumbai +235 other locations
+Tractors and Farm Equipment,8500.0,136.0,2500.0,18.0,275.0,Industrial Machinery | Chennai +192 other locations
+Sammaan Capital Limited,5800.0,113.0,2500.0,12.0,118.0,NBFC | Gurugram +201 other locations
+Northern Trust Operating Services,17300.0,243.0,2500.0,65.0,225.0,Financial Services | Bengaluru +27 other locations
+Laurus Labs,7300.0,155.0,2500.0,4.0,206.0,Pharma | Visakhapatnam +34 other locations
+JCB,9600.0,169.0,2500.0,0.0,233.0,Industrial Machinery | Pune +113 other locations
+Parle Agro,6700.0,147.0,2500.0,0.0,212.0,Beverage | Mumbai +258 other locations
+Canara HSBC Life Insurance,6300.0,138.0,2500.0,5.0,168.0,Insurance | Gurugram +321 other locations
+Planet Spark,3500.0,594.0,2400.0,73.0,191.0,EdTech | Gurugram +61 other locations
+McDonald's,4900.0,155.0,2400.0,3.0,410.0,Hospitality | New Delhi +151 other locations
+Patanjali Ayurved,5800.0,137.0,2400.0,0.0,248.0,FMCG | Haridwar +301 other locations
+ICICI Securities,9700.0,198.0,2400.0,1.0,184.0,Financial Services | Mumbai +148 other locations
+Paras Hospital,3200.0,99.0,2400.0,87.0,126.0,Healthcare | Patna +62 other locations
+Hero FinCorp,5800.0,122.0,2400.0,83.0,129.0,NBFC | New Delhi +393 other locations
+Emcure Pharmaceuticals,8400.0,126.0,2400.0,60.0,233.0,Pharma | Pune +116 other locations
+Statestreet HCL Services,13500.0,219.0,2400.0,0.0,201.0,BPO | Chennai +18 other locations
+Biocon Limited,11600.0,187.0,2400.0,8.0,2.0,Biotechnology | Bengaluru +65 other locations
+Intellect Design Arena,13500.0,182.0,2400.0,30.0,118.0,Software Product | Chennai +40 other locations
+Mahindra Rural Housing Finance,4700.0,104.0,2400.0,17.0,180.0,NBFC | Mumbai +466 other locations
+Datamatics Global Services,11700.0,181.0,2400.0,63.0,183.0,IT Services & Consulting | Mumbai +37 other locations
+Mahindra Holidays & Resorts,5900.0,128.0,2400.0,66.0,202.0,Hospitality | Mumbai +113 other locations
+Mahindra Holidays & Resorts,5900.0,128.0,2400.0,66.0,202.0,Hospitality | Mumbai +113 other locations
+CorroHealth Infotech,7400.0,281.0,2400.0,50.0,9.0,Analytics & KPO | Hyderabad +35 other locations
+Taj Hotels Resorts and Palaces,4800.0,161.0,2400.0,474.0,178.0,Hospitality | Mumbai +111 other locations
+Aditya Birla Group,10000.0,242.0,2400.0,7.0,248.0,Metals & Mining | Mumbai +269 other locations
+Axis Direct,4600.0,87.0,2400.0,47.0,226.0,Financial Services | Mumbai +271 other locations
+Cadila Pharmaceuticals,8000.0,158.0,2400.0,107.0,167.0,Pharma | Ahmedabad +135 other locations
+Cholamandalam MS General Insurance,6000.0,115.0,2400.0,0.0,166.0,Insurance | Chennai +388 other locations
+Syngene International,12600.0,191.0,2400.0,5.0,216.0,Clinical Research | Bengaluru +21 other locations
+3i Infotech,10700.0,166.0,2400.0,80.0,149.0,IT Services & Consulting | Mumbai +130 other locations
+Info Edge,11300.0,381.0,2400.0,390.0,298.0,Internet | Noida +69 other locations
+Capgemini Engineering,14100.0,397.0,2300.0,0.0,139.0,IT Services & Consulting | Bengaluru +28 other locations
+Bureau Veritas,8100.0,143.0,2300.0,20.0,176.0,Other | Mumbai +146 other locations
+KocharTech,3800.0,81.0,2300.0,30.0,582.0,IT Services & Consulting | Kolkata +25 other locations
+TaskUs,9500.0,223.0,2300.0,292.0,118.0,BPO | Indore +35 other locations
+Delhi Public School,5300.0,156.0,2300.0,141.0,258.0,Education & Training | New Delhi +276 other locations
+Aavas Financiers,5500.0,121.0,2300.0,42.0,138.0,NBFC | Jaipur +294 other locations
+RMSI,8800.0,195.0,2300.0,14.0,184.0,IT Services & Consulting | Hyderabad +25 other locations
+Cybage,17200.0,213.0,2300.0,18.0,268.0,IT Services & Consulting | Pune +15 other locations
+Xoriant,11600.0,234.0,2300.0,35.0,413.0,IT Services & Consulting | Pune +23 other locations
+Straive,10200.0,221.0,2300.0,97.0,122.0,IT Services & Consulting | Chennai +31 other locations
+Sopra Steria,14100.0,184.0,2300.0,103.0,240.0,IT Services & Consulting | Noida +20 other locations
+Kia India,8200.0,179.0,2300.0,80.0,166.0,Automobile | Anantapur +188 other locations
+Akums Drugs & Pharmaceuticals Limited,6300.0,330.0,2300.0,16.0,147.0,Pharma | Haridwar +38 other locations
+Lifestyle,6700.0,83.0,2300.0,20.0,278.0,Retail | Bengaluru +129 other locations
+GVK Emergency Management and Research Institute,4600.0,118.0,2300.0,60.0,177.0,Non-Profit | Lucknow +214 other locations
+Eureka Forbes,5600.0,92.0,2300.0,8.0,227.0,Consumer Electronics & Appliances | Mumbai +185 other locations
+Sobha,8300.0,165.0,2300.0,45.0,220.0,Real Estate | Bengaluru +38 other locations
+Apollo Pharmacy,6800.0,186.0,2300.0,1000.0,128.0,Pharma | Hyderabad +287 other locations
+Lodha,8800.0,173.0,2300.0,191.0,173.0,Real Estate | Mumbai +30 other locations
+Unacademy,10200.0,239.0,2300.0,39.0,153.0,EdTech | Bengaluru +73 other locations
+Radisson Hotels,5100.0,104.0,2200.0,399.0,312.0,Hospitality | New Delhi +129 other locations
+GAO Tek,260.0,576.0,2200.0,0.0,26.0,Electrical Equipment | New York +41 other locations
+Myntra,10500.0,340.0,2200.0,8.0,305.0,Internet | Bengaluru +103 other locations
+Endurance Technologies Limited,7800.0,137.0,2200.0,13.0,230.0,Auto Components | Chhatrapati Sambhajinagar +51 other locations
+SBI Securities,6700.0,185.0,2200.0,43.0,105.0,Financial Services | Mumbai +317 other locations
+Team Computers,8500.0,200.0,2200.0,178.0,115.0,IT Services & Consulting | New Delhi +107 other locations
+TCE,9500.0,294.0,2200.0,25.0,165.0,Engineering & Construction | Mumbai +132 other locations
+Newgen Software Technologies,11600.0,204.0,2200.0,47.0,147.0,IT Services & Consulting | Noida +32 other locations
+Panasonic Life Solutions India,6800.0,97.0,2200.0,19.0,105.0,Consumer Electronics & Appliances | Haridwar +168 other locations
+AWL Agri Business,6800.0,133.0,2200.0,17.0,171.0,FMCG | Ahmedabad +201 other locations
+Star Union Dai-ichi Life Insurance,5300.0,136.0,2200.0,14.0,95.0,Insurance | Mumbai +321 other locations
+Lava International,4400.0,87.0,2200.0,1.0,302.0,Consumer Electronics & Appliances | Noida +222 other locations
+Daikin Airconditioning India Pvt. Ltd.,7800.0,207.0,2200.0,1.0,144.0,Consumer Electronics & Appliances | Neemrana +109 other locations
+Bharti AXA Life Insurance,5200.0,149.0,2200.0,32.0,170.0,Insurance | Mumbai +243 other locations
+Cisco,18800.0,413.0,2200.0,177.0,223.0,Hardware & Networking | Bengaluru +46 other locations
+BNP Paribas,18300.0,216.0,2200.0,25.0,174.0,Banking | Mumbai +27 other locations
+Whirlpool,8000.0,119.0,2200.0,13.0,202.0,Consumer Electronics & Appliances | Pune +173 other locations
+SBI General Insurance,6500.0,130.0,2200.0,30.0,132.0,Insurance | Mumbai +291 other locations
+Indian Railways,3400.0,114.0,2200.0,0.0,159.0,Railways | Kolkata +249 other locations
+Meesho,9500.0,428.0,2200.0,179.0,297.0,Internet | Bengaluru +133 other locations
+Coromandel International,7600.0,127.0,2200.0,14.0,218.0,Agro Chemicals | Visakhapatnam +183 other locations
+GlaxoSmithKline Pharmaceuticals,5700.0,126.0,2200.0,40.0,112.0,Pharma | Bengaluru +216 other locations
+Renault Nissan Technology & Business Centre India,14700.0,153.0,2200.0,29.0,210.0,Automobile | Chennai +19 other locations
+Shahi Exports,6900.0,125.0,2200.0,43.0,228.0,Fashion & Textile | Bengaluru +72 other locations
+Ambuja Cements,6100.0,162.0,2200.0,0.0,211.0,Building Material | Mumbai +261 other locations
+Sify Technologies,9900.0,148.0,2200.0,60.0,152.0,IT Services & Consulting | Chennai +133 other locations
+Allstate,12200.0,155.0,2200.0,10.0,186.0,Insurance | Pune +17 other locations
+ValueLabs,16100.000000000002,217.0,2200.0,83.0,266.0,IT Services & Consulting | Hyderabad +20 other locations
+Nokia Networks,10400.0,126.0,2200.0,0.0,10.0,Hardware & Networking | Chennai +87 other locations
+Bank of Baroda,7100.0,120.0,2100.0,0.0,150.0,Banking | Mumbai +301 other locations
+Microsoft Corporation,29800.0,620.0,2100.0,0.0,196.0,Software Product | Bengaluru +47 other locations
+Life Insurance Corporation of India,4500.0,100.0,2100.0,1.0,242.0,Insurance | New Delhi +470 other locations
+Brakes India,7100.0,107.0,2100.0,8.0,212.0,Auto Components | Chennai +100 other locations
+BHEL,5200.0,136.0,2100.0,0.0,231.0,Electrical Equipment | Bengaluru +129 other locations
+Spark Minda,7200.0,161.0,2100.0,3.0,36.0,Auto Components | Pune +75 other locations
+Cargill,8500.0,112.0,2100.0,307.0,148.0,Food Processing | Bengaluru +121 other locations
+Poonawalla Fincorp,5800.0,84.0,2100.0,19.0,129.0,NBFC | Pune +263 other locations
+Mercedes-Benz Research and Development India,17800.0,208.0,2100.0,332.0,195.0,IT Services & Consulting | Bengaluru +52 other locations
+upGrad,9200.0,217.0,2100.0,79.0,125.0,EdTech | Bengaluru +50 other locations
+Huawei Technologies,8000.0,119.0,2100.0,34.0,288.0,Telecom | Bengaluru +104 other locations
+JK Tyre,6800.0,154.0,2100.0,0.0,189.0,Auto Components | Chennai +147 other locations
+CAMS,8600.0,148.0,2100.0,17.0,50.0,Financial Services | Chennai +108 other locations
+Generali Central Life Insurance,6700.0,118.0,2100.0,6.0,163.0,Insurance | Mumbai +201 other locations
+FirstCry,8600.0,211.0,2100.0,1.0,70.0,Retail | Pune +213 other locations
+Power Mech Projects,6800.0,123.0,2100.0,13.0,158.0,Engineering & Construction | Hyderabad +152 other locations
+Saint-Gobain,11600.0,205.0,2100.0,164.0,243.0,Building Material | Mumbai +104 other locations
+Jio Platforms,14200.0,259.0,2100.0,0.0,62.0,IT Services & Consulting | Mumbai +104 other locations
+Pfizer,5800.0,87.0,2100.0,55.0,276.0,Pharma | Visakhapatnam +133 other locations
+Simplex Infrastructures,4400.0,83.0,2100.0,2.0,286.0,Engineering & Construction | Kolkata +139 other locations
+Bharat Petroleum,6900.0,174.0,2100.0,0.0,187.0,Oil & Gas | Mumbai +261 other locations
+Nuvoco Vistas,6900.0,130.0,2100.0,22.0,127.0,Building Material | Kolkata +199 other locations
+"Maruti Suzuki India Limited, Hansalpur",6800.0,228.0,2100.0,0.0,113.0,Automobile | Ahmedabad +107 other locations
+NTT DATA Business Solutions,12500.0,274.0,2100.0,29.0,14.0,IT Services & Consulting | Bengaluru +32 other locations
+Force Motors,8300.0,145.0,2100.0,8.0,152.0,Automobile | Pune +106 other locations
+Manipal Hospitals,6900.0,137.0,2100.0,90.0,136.0,Healthcare | Bengaluru +66 other locations
+Kotak Securities,9500.0,145.0,2100.0,35.0,153.0,Financial Services | Mumbai +140 other locations
+Raymond Lifestyle Limited,6400.0,115.0,2100.0,0.0,230.0,Fashion & Textile | Mumbai +149 other locations
+Reliance Trends,4200.0,123.0,2100.0,0.0,220.0,Retail | Bengaluru +393 other locations
+Ola Cabs,9100.0,153.0,2100.0,14.0,227.0,Internet | Bengaluru +112 other locations
+ITC Hotels,5300.0,104.0,2100.0,0.0,199.0,Hospitality | Bengaluru +95 other locations
+Infinite Computer Solutions,15200.0,174.0,2000.0,244.0,105.0,IT Services & Consulting | Bengaluru +36 other locations
+CitiusTech,14400.0,316.0,2000.0,39.0,163.0,IT Services & Consulting | Mumbai +17 other locations
+Renault-Nissan,7600.0,125.0,2000.0,0.0,268.0,Automobile | Chennai +86 other locations
+IndusInd General Insurance,7100.0,99.0,2000.0,13.0,131.0,Insurance | Mumbai +194 other locations
+Delphi TVS,5600.0,100.0,2000.0,3.0,192.0,Auto Components | Chennai +61 other locations
+Biological E,7000.0,144.0,2000.0,34.0,221.0,Pharma | Hyderabad +72 other locations
+Extramarks Education,7500.0,172.0,2000.0,3.0,142.0,EdTech | Noida +111 other locations
+Henry Harvin Education,919.0,74.0,2000.0,47.0,63.0,EdTech | Noida +33 other locations
+Morgan Stanley,26600.0,338.0,2000.0,7.0,151.0,Financial Services | Mumbai +19 other locations
+SGS,6400.0,126.0,2000.0,137.0,178.0,"Testing, Inspection and Certification (TIC) | Mumbai +146 other locations"
+EPAM Systems,22700.0,632.0,2000.0,223.0,132.0,IT Services & Consulting | Hyderabad +36 other locations
+YASH Technologies,16200.0,171.0,2000.0,469.0,172.0,IT Services & Consulting | Hyderabad +31 other locations
+K12 Techno Services,5200.0,424.0,2000.0,409.0,61.0,EdTech | Bengaluru +43 other locations
+Senco Gold,1500.0,633.0,2000.0,1.0,35.0,Jewellery | Kolkata +79 other locations
+Ninjacart,5000.0,103.0,2000.0,23.0,137.0,Internet | Bengaluru +112 other locations
+Novartis,10200.0,168.0,2000.0,129.0,226.0,Pharma | Hyderabad +75 other locations
+State Street Syntel,7000.0,80.0,2000.0,0.0,281.0,Financial Services | Mumbai +21 other locations
+Aditya Birla Health Insurance Co,7200.0,124.0,2000.0,3.0,93.0,Insurance | Mumbai +254 other locations
+SAP,17600.0,317.0,2000.0,0.0,284.0,Software Product | Bengaluru +54 other locations
+Narayana Health,6000.0,95.0,2000.0,120.0,143.0,Healthcare | Bengaluru +64 other locations
+IDBI Bank,6100.0,84.0,2000.0,0.0,137.0,Banking | Mumbai +336 other locations
+HSBC Electronic Data Processing,8600.0,90.0,2000.0,0.0,20.0,IT Services & Consulting | Bengaluru +19 other locations
+L&T Energy Hydrocarbon,8400.0,118.0,2000.0,0.0,201.0,Engineering & Construction | Vadodara +88 other locations
+AECOM,7000.0,151.0,1900.0,175.0,243.0,Engineering & Construction | Gurugram +122 other locations
+Paisabazaar.com,7000.0,169.0,1900.0,40.0,98.0,Internet | Gurugram +35 other locations
+Shadowfax Technologies,7600.0,168.0,1900.0,74.0,81.0,Logistics | Bengaluru +243 other locations
+Honeywell Automation,12100.0,133.0,1900.0,0.0,159.0,Industrial Automation | Pune +78 other locations
+Schindler,6200.0,124.0,1900.0,69.0,194.0,Industrial Machinery | Pune +89 other locations
+Haier Appliances India,7000.0,164.0,1900.0,51.0,166.0,Consumer Electronics & Appliances | Pune +161 other locations
+Trent,4800.0,109.0,1900.0,16.0,133.0,Retail | Mumbai +146 other locations
+R.R. Donnelley,10100.0,128.0,1900.0,28.0,243.0,Marketing & Advertising | Chennai +26 other locations
+Motherson Automotive Technologies and Engineering,7600.0,157.0,1900.0,28.0,151.0,Auto Components | Chennai +68 other locations
+NCR Voyix,9300.0,143.0,1900.0,20.0,173.0,IT Services & Consulting | Hyderabad +90 other locations
+Microland,10700.0,144.0,1900.0,414.0,158.0,IT Services & Consulting | Bengaluru +45 other locations
+Philips,11000.0,178.0,1900.0,119.0,180.0,Medical Equipment | Bengaluru +97 other locations
+Dr Lal PathLabs,4400.0,179.0,1900.0,90.0,192.0,Healthcare | New Delhi +201 other locations
+Gabriel India Limited,5800.0,132.0,1900.0,0.0,249.0,Auto Components | Pune +52 other locations
+Parle Products,3700.0,122.0,1900.0,6.0,202.0,FMCG | Mumbai +250 other locations
+V-Guard Industries,4500.0,117.0,1900.0,42.0,274.0,Consumer Electronics & Appliances | Kochi +169 other locations
+Uflex,6700.0,127.0,1900.0,56.0,117.0,Packaging | Noida +46 other locations
+CMS Infosystems,4700.0,80.0,1900.0,8.0,104.0,Software Product | Mumbai +220 other locations
+Crisil,13300.0,214.0,1900.0,725.0,222.0,Analytics & KPO | Mumbai +81 other locations
+Globiva,5300.0,138.0,1900.0,187.0,83.0,BPO | Gurugram +30 other locations
+Spinny,7500.0,208.0,1900.0,36.0,101.0,Internet | Gurugram +63 other locations
+Adecco Group,7200.0,119.0,1900.0,0.0,137.0,Recruitment | Bengaluru +181 other locations
+Google,33300.0,1000.0,1900.0,524.0,132.0,Software Product | Bengaluru +86 other locations
+CNH (Case New Holland),6000.0,138.0,1900.0,15.0,162.0,Industrial Machinery | Gurugram +136 other locations
+Angel One,7500.0,169.0,1900.0,31.0,153.0,FinTech | Mumbai +132 other locations
+G R Infraprojects,5400.0,164.0,1900.0,29.0,158.0,Engineering & Construction | Gurugram +159 other locations
+Tekwissen,585.0,341.0,1900.0,71.0,3.0,IT Services & Consulting | Visakhapatnam +5 other locations
+Aye Finance,3500.0,97.0,1900.0,21.0,115.0,NBFC | Gurugram +370 other locations
+Safexpress,5700.0,128.0,1900.0,13.0,148.0,Logistics | New Delhi +159 other locations
+DHL Supply Chain,6100.0,123.0,1900.0,128.0,137.0,Logistics | Mumbai +101 other locations
+Lucas-TVS,6000.0,91.0,1900.0,6.0,212.0,Auto Components | Chennai +78 other locations
+Aadhar Housing Finance,5000.0,118.0,1900.0,3.0,99.0,NBFC | Mumbai +326 other locations
+HTC Global Services,13100.0,165.0,1900.0,10.0,108.0,IT Services & Consulting | Chennai +32 other locations
+NTPC,4300.0,184.0,1900.0,0.0,175.0,Power | New Delhi +125 other locations
+Tata Power,7300.0,216.0,1900.0,17.0,123.0,Power | Mumbai +152 other locations
+Infinx,5300.0,208.0,1900.0,39.0,72.0,Software Product | Hyderabad +36 other locations
+Trident Group,5400.0,136.0,1900.0,24.0,122.0,Fashion & Textile | Barnala +58 other locations
+Thomson Reuters,10700.0,138.0,1900.0,102.0,226.0,Software Product | Bengaluru +27 other locations
+Tata Tele Business Services,4500.0,54.0,1900.0,39.0,274.0,Telecom | Mumbai +136 other locations
+Iris Software,7900.0,206.0,1900.0,672.0,245.0,IT Services & Consulting | Noida +23 other locations
+Hindustan Aeronautics,4300.0,87.0,1900.0,0.0,173.0,Defence & Aerospace | Bengaluru +64 other locations
+TVS Sundram Fasteners,6600.0,93.0,1900.0,0.0,203.0,Auto Components | Chennai +66 other locations
+ICICI Home Finance,5500.0,101.0,1900.0,15.0,87.0,Financial Services | Mumbai +221 other locations
+PI Industries,6900.0,138.0,1900.0,14.0,162.0,Agro Chemicals | Vadodara +107 other locations
+CSB Bank,6800.0,107.0,1800.0,734.0,44.0,Banking | Mumbai +235 other locations
+NeoSOFT,10700.0,301.0,1800.0,77.0,101.0,IT Services & Consulting | Mumbai +24 other locations
+Torrent Power,7800.0,163.0,1800.0,69.0,157.0,Power | Ahmedabad +61 other locations
+KENT RO Systems,4500.0,101.0,1800.0,3.0,106.0,Consumer Electronics & Appliances | Noida +154 other locations
+Jindal Saw,6500.0,145.0,1800.0,4.0,182.0,Iron & Steel | Mundra +76 other locations
+Verizon,11700.0,134.0,1800.0,3.0,200.0,Telecom | Hyderabad +11 other locations
+Aragen Life Sciences,6500.0,127.0,1800.0,102.0,298.0,Clinical Research | Hyderabad +29 other locations
+TELUS Digital,9700.0,137.0,1800.0,45.0,36.0,IT Services & Consulting | Noida +26 other locations
+Polycab Wires,7200.0,133.0,1800.0,51.0,88.0,Electrical Equipment | Vadodara +167 other locations
+First American (India),9400.0,100.0,1800.0,52.0,172.0,Insurance | Bengaluru +22 other locations
+Medi Assist India,7300.0,136.0,1800.0,12.0,139.0,Insurance | Bengaluru +66 other locations
+AXA Global Business Services,7200.0,104.0,1800.0,15.0,171.0,IT Services & Consulting | Pune +11 other locations
+Honda Cars,6300.0,113.0,1800.0,0.0,182.0,Automobile | Bhiwadi +117 other locations
+Fusion CX,4500.0,143.0,1800.0,129.0,98.0,BPO | Kolkata +58 other locations
+Infra.Market,3700.0,278.0,1800.0,6.0,35.0,Building Material | Mumbai +132 other locations
+AkzoNobel,4300.0,141.0,1800.0,23.0,132.0,Chemicals | Pune +162 other locations
+Capri Global Capital,4100.0,73.0,1800.0,12.0,37.0,NBFC | New Delhi +333 other locations
+Sterling & Wilson,6700.0,83.0,1800.0,40.0,200.0,Engineering & Construction | Mumbai +130 other locations
+Godrej Properties,8900.0,130.0,1800.0,3.0,106.0,Real Estate | Mumbai +34 other locations
+Innovsource Services,4600.0,76.0,1800.0,0.0,125.0,Recruitment | Mumbai +251 other locations
+Haldiram Foods International Limited,5900.0,155.0,1800.0,0.0,99.0,FMCG | Nagpur +166 other locations
+DIVI'S Laboratories,6900.0,103.0,1800.0,0.0,175.0,Pharma | Visakhapatnam +37 other locations
+Cafe Coffee Day,3700.0,82.0,1800.0,8.0,179.0,Hospitality | Bengaluru +105 other locations
+MetLife,9300.0,102.0,1800.0,58.0,235.0,Insurance | Noida +44 other locations
+Hindustan Petroleum,6000.0,118.0,1800.0,0.0,136.0,Oil & Gas | Mumbai +256 other locations
+Digit Insurance,5900.0,232.0,1800.0,48.0,101.0,Insurance | Bengaluru +88 other locations
+SS&C TECHNOLOGIES,13300.0,198.0,1800.0,78.0,197.0,IT Services & Consulting | Mumbai +30 other locations
+Kalyan Jewellers,1500.0,80.0,1800.0,46.0,57.0,Jewellery | Thrissur +158 other locations
+Tata Communications Transformation Services,8400.0,101.0,1700.0,0.0,170.0,Telecom | Pune +95 other locations
+Air India,7800.0,215.0,1700.0,33.0,159.0,Aviation | New Delhi +68 other locations
+Reckitt Benckiser,6200.0,106.0,1700.0,58.0,174.0,FMCG | Gurugram +135 other locations
+USHA International,4800.0,115.0,1700.0,12.0,162.0,Consumer Electronics & Appliances | Gurugram +149 other locations
+Security and Intelligence Services (India),4500.0,81.0,1700.0,33.0,134.0,Law Enforcement & Security | New Delhi +196 other locations
+Isgec Heavy Engineering,6900.0,146.0,1700.0,54.0,133.0,Engineering & Construction | Noida +92 other locations
+LivSpace,8100.0,169.0,1700.0,107.0,93.0,Architecture & Interior Design | Bengaluru +53 other locations
+Future Retail,3900.0,57.0,1700.0,0.0,249.0,Retail | Mumbai +197 other locations
+USV,5700.0,87.0,1700.0,86.0,171.0,Pharma | Mumbai +108 other locations
+Dhani Loans and Services,4100.0,70.0,1700.0,22.0,41.0,NBFC | Gurugram +186 other locations
+Vedantu,8200.0,201.0,1700.0,34.0,159.0,EdTech | Bengaluru +72 other locations
+HDFC Securities,6100.0,127.0,1700.0,28.0,137.0,Financial Services | Mumbai +186 other locations
+BT Business,9100.0,90.0,1700.0,5.0,260.0,Telecom | Gurugram +12 other locations
+Pine Labs,7500.0,135.0,1700.0,18.0,116.0,FinTech | Noida +119 other locations
+Adani Green Energy,5900.0,155.0,1700.0,0.0,79.0,Power | Ahmedabad +114 other locations
+Annapurna Finance,3800.0,84.0,1700.0,0.0,126.0,NBFC | Bhubaneswar +397 other locations
+XBP Global,7700.0,102.0,1700.0,82.0,75.0,Internet | Chennai +23 other locations
+Bata,4400.0,86.0,1700.0,9.0,118.0,Fashion & Textile | Gurugram +149 other locations
+BVG India,3900.0,167.0,1700.0,59.0,99.0,Facility Management Services | Pune +136 other locations
+Mother Dairy Fruit & Vegetable,5100.0,102.0,1700.0,0.0,151.0,Food Processing | New Delhi +128 other locations
+Metro Cash & Carry,4800.0,77.0,1700.0,0.0,167.0,Retail | Bengaluru +88 other locations
+Rungta Mines,5500.0,184.0,1700.0,0.0,58.0,Metals & Mining | Chaibasa +57 other locations
+Granules India Limited,6300.0,84.0,1700.0,12.0,159.0,Pharma | Hyderabad +22 other locations
+Indian Navy,3400.0,37.0,1700.0,0.0,244.0,Defence & Aerospace | Mumbai +75 other locations
+Provana,4100.0,175.0,1700.0,35.0,250.0,BPO | Noida +11 other locations
+NEC,5500.0,79.0,1700.0,3.0,78.0,IT Services & Consulting | Noida +54 other locations
+Sysnet Global Technologies,4300.0,142.0,1700.0,11.0,83.0,IT Services & Consulting | New Delhi +154 other locations
+Orange Business,9000.0,117.0,1700.0,25.0,237.0,IT Services & Consulting | Gurugram +52 other locations
+Medanta the Medicity,5100.0,130.0,1700.0,72.0,147.0,Healthcare | Gurugram +50 other locations
+Orchids International School,3800.0,344.0,1700.0,20.0,53.0,Education & Training | Bengaluru +33 other locations
+Cavinkare,4800.0,71.0,1700.0,5.0,142.0,FMCG | Chennai +172 other locations
+Hitachi Astemo,6300.0,135.0,1700.0,0.0,119.0,Auto Components | Neemrana +52 other locations
+HighRadius,8800.0,208.0,1700.0,48.0,82.0,Software Product | Hyderabad +15 other locations
+FactSet,10600.0,232.0,1700.0,18.0,185.0,Analytics & KPO | Hyderabad +16 other locations
+Frankfinn Institute of Air Hostess Training,3200.0,127.0,1700.0,113.0,170.0,Education & Training | Gurugram +60 other locations
+TTEC India,5400.0,192.0,1700.0,20.0,152.0,BPO | Ahmedabad +35 other locations
+Caterpillar Inc,10800.0,208.0,1700.0,203.0,134.0,Industrial Machinery | Chennai +43 other locations
+Cushman & Wakefield,6400.0,118.0,1700.0,212.0,129.0,Real Estate | Gurugram +44 other locations
+KONE,5700.0,140.0,1700.0,69.0,191.0,Industrial Machinery | Chennai +73 other locations
+Yamaha Motor,5200.0,88.0,1600.0,9.0,177.0,Automobile | Chennai +155 other locations
+Rane (Madras),4900.0,94.0,1600.0,43.0,162.0,Auto Components | Chennai +58 other locations
+MagicBricks,4500.0,349.0,1600.0,33.0,72.0,Internet | Noida +35 other locations
+DHL Express,6100.0,78.0,1600.0,0.0,170.0,Logistics | Mumbai +90 other locations
+BA Continuum,10100.0,112.0,1600.0,0.0,289.0,IT Services & Consulting | Hyderabad +19 other locations
+JSW Bhushan Power & Steel,4900.0,80.0,1600.0,0.0,176.0,Iron & Steel | Jharsuguda +65 other locations
+L.G.Balakrishnan & Bros,5700.0,83.0,1600.0,5.0,119.0,Auto Components | Coimbatore +61 other locations
+Procter & Gamble,5800.0,133.0,1600.0,0.0,166.0,FMCG | Mumbai +253 other locations
+Wipro Enterprises Ltd,8100.0,204.0,1600.0,114.0,434.0,FMCG | Bengaluru +122 other locations
+Compass Group Support Services,5400.0,88.0,1600.0,40.0,141.0,Facility Management Services | Bengaluru +77 other locations
+Johnson & Johnson,5800.0,116.0,1600.0,11.0,186.0,Healthcare | Mumbai +171 other locations
+Matrimony.com,4400.0,102.0,1600.0,45.0,66.0,Internet | Chennai +64 other locations
+Vardhman Fabrics,5300.0,80.0,1600.0,6.0,147.0,Fashion & Textile | Baddi +64 other locations
+American Broadcasting Company,34500.0,595.0,1600.0,4.0,9.0,Engineering & Construction | Bengaluru +103 other locations
+Patanjali Foods,4500.0,101.0,1600.0,14.0,108.0,FMCG | Haridwar +234 other locations
+Tata Play,4600.0,90.0,1600.0,1.0,181.0,Broadcasting | Mumbai +222 other locations
+CG Power and Industrial Solutions,6600.0,107.0,1600.0,3.0,213.0,Electrical Equipment | Bhopal +91 other locations
+Clover Infotech,11700.0,140.0,1600.0,127.0,95.0,IT Services & Consulting | Mumbai +22 other locations
+Belrise Industries,6100.0,106.0,1600.0,14.0,97.0,Auto Components | Pune +58 other locations
+Chegg,3900.0,167.0,1600.0,8.0,87.0,EdTech | New Delhi +78 other locations
+Hero Motors Company,6100.0,98.0,1600.0,2.0,120.0,Automobile | Ghaziabad +230 other locations
+Arvind Group,5300.0,81.0,1600.0,0.0,296.0,Fashion & Textile | Ahmedabad +91 other locations
+NielsenIQ,9900.0,230.0,1600.0,42.0,57.0,Analytics & KPO | Chennai +54 other locations
+Suryoday Small Finance Bank,4600.0,97.0,1600.0,14.0,86.0,Banking | Mumbai +232 other locations
+Health Care Global Enterprises,2800.0,164.0,1600.0,84.0,26.0,Healthcare | Bengaluru +53 other locations
+CMA CGM,8100.0,101.0,1600.0,17.0,211.0,Ports & Shipping | Chennai +37 other locations
+Krishna Maruti,5100.0,130.0,1600.0,7.0,119.0,Auto Components | Gurugram +51 other locations
+Tata 1mg,6900.0,219.0,1600.0,81.0,100.0,Internet | Gurugram +62 other locations
+ReNew,6300.0,138.0,1600.0,47.0,96.0,Power | Gurugram +105 other locations
+HERE Technologies,7700.0,112.0,1600.0,11.0,284.0,IT Services & Consulting | Mumbai +19 other locations
+Toyota Kirloskar Motor,4500.0,79.0,1600.0,0.0,164.0,Automobile | Bengaluru +91 other locations
+Coronis Ajuba Solutions,5700.0,93.0,1600.0,24.0,140.0,BPO | Chennai +31 other locations
+Marico,5600.0,102.0,1600.0,18.0,162.0,FMCG | Mumbai +183 other locations
+Godrej Industries Group,3000.0,151.0,1600.0,1.0,155.0,Real Estate | Mumbai +149 other locations
+IIFL SAMASTA,3200.0,83.0,1700.0,2.0,19.0,NBFC | Bengaluru +397 other locations
+PharmEasy,6500.0,118.0,1600.0,0.0,153.0,Internet | Bengaluru +70 other locations
+Welspun Living Limited,5100.0,90.0,1600.0,1.0,150.0,Fashion & Textile | Anjar +86 other locations
+Dixon Technologies,5700.0,145.0,1600.0,28.0,116.0,Electronics Manufacturing | Noida +46 other locations
+Satin Creditcare Network,3100.0,64.0,1600.0,8.0,129.0,NBFC | Gurugram +328 other locations
+Goldman Sachs,20200.0,413.0,1600.0,357.0,100.0,Financial Services | Bengaluru +23 other locations
+Shriram Life Insurance,4800.0,110.0,1600.0,26.0,81.0,Insurance | Hyderabad +326 other locations
+Wockhardt,4100.0,66.0,1600.0,11.0,178.0,Pharma | Chhatrapati Sambhajinagar +84 other locations
+Emami,5200.0,104.0,1600.0,4.0,131.0,FMCG | Kolkata +173 other locations
+Teva Pharmaceuticals,5600.0,120.0,1600.0,18.0,183.0,Pharma | Bengaluru +52 other locations
+Honda,3900.0,114.0,1600.0,4.0,206.0,Automobile | Gurugram +228 other locations
+ZF Commercial Vehicle Control Systems,3800.0,81.0,1600.0,0.0,6.0,Auto Components | Chennai +48 other locations
+Veritas Finance,2100.0,88.0,1600.0,0.0,36.0,NBFC | Chennai +297 other locations
+iOPEX Technologies,5900.0,88.0,1600.0,42.0,530.0,IT Services & Consulting | Chennai +16 other locations
+Supreme Industries,5700.0,97.0,1600.0,0.0,113.0,Petrochemicals | Gwalior +124 other locations
+Mercer,9800.0,97.0,1500.0,231.0,205.0,Management Consulting | New Delhi +17 other locations
+KFC,3000.0,86.0,1500.0,0.0,153.0,Hospitality | New Delhi +173 other locations
+Sanofi,5700.0,98.0,1500.0,181.0,163.0,Pharma | Hyderabad +92 other locations
+Urban Company,6700.0,170.0,1500.0,98.0,96.0,Internet | Gurugram +59 other locations
+Asahi India Glass,5200.0,111.0,1500.0,49.0,129.0,Auto Components | Chennai +88 other locations
+Relaxo Footwear,4500.0,109.0,1500.0,32.0,143.0,Fashion & Textile | New Delhi +159 other locations
